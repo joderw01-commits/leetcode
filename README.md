@@ -8,6 +8,7 @@ my daily problems
 | ------- |
 | [0015-3sum](https://github.com/joderw01-commits/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/joderw01-commits/leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/joderw01-commits/leetcode/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/joderw01-commits/leetcode/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/joderw01-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -15,6 +16,7 @@ my daily problems
 | ------- |
 | [0015-3sum](https://github.com/joderw01-commits/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/joderw01-commits/leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/joderw01-commits/leetcode/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/joderw01-commits/leetcode/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/joderw01-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -22,6 +24,7 @@ my daily problems
 | ------- |
 | [0015-3sum](https://github.com/joderw01-commits/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/joderw01-commits/leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/joderw01-commits/leetcode/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/joderw01-commits/leetcode/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/joderw01-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -32,4 +35,12 @@ my daily problems
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/joderw01-commits/leetcode/tree/master/0611-valid-triangle-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/joderw01-commits/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/joderw01-commits/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
