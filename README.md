@@ -12,6 +12,7 @@ my daily problems
 | [0209-minimum-size-subarray-sum](https://github.com/joderw01-commits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/joderw01-commits/leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/joderw01-commits/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/joderw01-commits/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/joderw01-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -51,8 +52,13 @@ my daily problems
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/joderw01-commits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/joderw01-commits/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/joderw01-commits/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/joderw01-commits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/joderw01-commits/leetcode/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
