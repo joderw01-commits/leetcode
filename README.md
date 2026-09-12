@@ -14,6 +14,7 @@ my daily problems
 | [0643-maximum-average-subarray-i](https://github.com/joderw01-commits/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/joderw01-commits/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/joderw01-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/joderw01-commits/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ my daily problems
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/joderw01-commits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/joderw01-commits/leetcode/tree/master/0611-valid-triangle-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/joderw01-commits/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -55,10 +57,12 @@ my daily problems
 | [0424-longest-repeating-character-replacement](https://github.com/joderw01-commits/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/joderw01-commits/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/joderw01-commits/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/joderw01-commits/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/joderw01-commits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/joderw01-commits/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
