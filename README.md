@@ -23,6 +23,7 @@ my daily problems
 | [0075-sort-colors](https://github.com/joderw01-commits/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/joderw01-commits/leetcode/tree/master/0141-linked-list-cycle) |
 | [0611-valid-triangle-number](https://github.com/joderw01-commits/leetcode/tree/master/0611-valid-triangle-number) |
+| [0876-middle-of-the-linked-list](https://github.com/joderw01-commits/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/joderw01-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -80,6 +81,7 @@ my daily problems
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/joderw01-commits/leetcode/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/joderw01-commits/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
