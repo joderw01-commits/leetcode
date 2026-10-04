@@ -10,6 +10,7 @@ my daily problems
 | [0016-3sum-closest](https://github.com/joderw01-commits/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/joderw01-commits/leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/joderw01-commits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/joderw01-commits/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/joderw01-commits/leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/joderw01-commits/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/joderw01-commits/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -23,6 +24,7 @@ my daily problems
 | [0075-sort-colors](https://github.com/joderw01-commits/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/joderw01-commits/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/joderw01-commits/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/joderw01-commits/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/joderw01-commits/leetcode/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/joderw01-commits/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/joderw01-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -38,6 +40,7 @@ my daily problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/joderw01-commits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/joderw01-commits/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/joderw01-commits/leetcode/tree/master/0611-valid-triangle-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/joderw01-commits/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
@@ -90,4 +93,13 @@ my daily problems
 | ------- |
 | [0141-linked-list-cycle](https://github.com/joderw01-commits/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/joderw01-commits/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/joderw01-commits/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/joderw01-commits/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/joderw01-commits/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
